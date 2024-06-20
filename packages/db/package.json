@@ -1,0 +1,24 @@
+{
+  "name": "@jot/db",
+  "version": "0.0.0",
+  "exports": {
+    ".": "./index.ts"
+  },
+  "license": "MIT",
+  "scripts": {},
+  "peerDependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@jot/eslint-config": "workspace:*",
+    "@jot/typescript-config": "workspace:*",
+    "@types/better-sqlite3": "^7.6.10",
+    "@types/node": "^20.11.24",
+    "drizzle-kit": "^0.22.7",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.0.0",
+    "drizzle-orm": "^0.31.2"
+  }
+}

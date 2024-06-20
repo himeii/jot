@@ -1,0 +1,10 @@
+/Users/sbreus/personal/jot/target/debug/deps/libzerovec_derive-bc6511fddc70f319.dylib: /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/lib.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/make_ule.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/make_varule.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/ule.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/utils.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/varule.rs
+
+/Users/sbreus/personal/jot/target/debug/deps/zerovec_derive-bc6511fddc70f319.d: /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/lib.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/make_ule.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/make_varule.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/ule.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/utils.rs /Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/varule.rs
+
+/Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/lib.rs:
+/Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/make_ule.rs:
+/Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/make_varule.rs:
+/Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/ule.rs:
+/Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/utils.rs:
+/Users/sbreus/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.2/src/varule.rs:

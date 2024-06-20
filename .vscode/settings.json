@@ -3,5 +3,14 @@
     {
       "mode": "auto"
     }
+  ],
+  "sqltools.useNodeRuntime": true,
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "database": "${workspaceFolder:jot}/apps/desktop/src-tauri/sqlite.db",
+      "name": "SQLite"
+    }
   ]
 }
