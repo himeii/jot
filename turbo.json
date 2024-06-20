@@ -13,7 +13,7 @@
       "persistent": true
     },
     "desktop#dev": {
-      "env": ["DATABASE_URL"]
+      "env": ["DATABASE_URL", "OUT_DIR"]
     },
     "clean": {
       "cache": false

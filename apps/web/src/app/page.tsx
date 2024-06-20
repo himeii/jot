@@ -1,6 +1,6 @@
 "use client";
 
-import { Calendar, Avatar, AvatarFallback, AvatarImage } from "@jot/ui";
+import { Calendar, Avatar, AvatarFallback, AvatarImage, Input } from "@jot/ui";
 
 export default function Page(): JSX.Element {
   return (
@@ -11,6 +11,7 @@ export default function Page(): JSX.Element {
           <AvatarImage alt="@shadcn" src="https://github.com/shadcn.png" />
           <AvatarFallback>CN</AvatarFallback>
         </Avatar>
+        <Input />
       </div>
     </main>
   );
